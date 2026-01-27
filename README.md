@@ -1,2 +1,3 @@
-# The-Shoot-emUp
-A mini game coded on python
+# The Shoot'em Up
+
+🎮 A mini game coded on python 🐍
