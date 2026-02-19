@@ -20,8 +20,13 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
-      - name: Run a Python script
+      - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pygame
+        
+      - name: Game start
+      run: |
         env:
-          AZURE_SECRET_TOKEN: ${{ secrets.IF_2026_1 }}
-        run: python .github/workflows/game.py
+          AZURE_SECRET_TOKEN: ${{ secrets.GO-FR }}
+             run: python .github/workflows/game.py
