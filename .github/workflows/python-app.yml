@@ -25,7 +25,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pygame
         
-      - name: Game start
+      name: Game start
       run: |
         env:
           AZURE_SECRET_TOKEN: ${{ secrets.GO-FR }}
