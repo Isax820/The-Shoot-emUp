@@ -19,14 +19,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
-      - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install pygame
         
-      name: Game start
+      - name: Game start
       run: |
         env:
-          AZURE_SECRET_TOKEN: ${{ secrets.GO-FR }}
+        pip install pygame
+          AZURE_SECRET_TOKEN: ${{ secrets.GO_FR }}
              run: python .github/workflows/game.py
