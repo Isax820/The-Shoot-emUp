@@ -2,33 +2,38 @@
 
 # 🚀 THE SHOOT'EM UP 1.1
 
-Survivez le plus longtemps possible face à des vagues incessantes d'ennemis dans ce shoot'em up arcade fait maison !
+Survive as long as possible against endless waves of enemies in this homemade arcade shoot 'em up!
 
-Pilotez votre vaisseau, esquivez les ennemis et détruisez-les avant qu'ils ne vous rattrapent. Chaque partie est unique : la vitesse et le nombre d'adversaires varient aléatoirement, gardant la tension à son maximum.
+Pilot your ship, dodge enemies, and destroy them before they catch you. Every game is unique: the speed and number of enemies vary randomly, keeping the tension at its highest.
 
-─────────────────────────────
+──────────────────────────────
 
 # 🎮 GAMEPLAY
 
-• Déplacez votre vaisseau en 4 directions
-• Tirez des missiles sur les ennemis
-• Un seul contact avec un ennemi = GAME OVER
-• Les ennemis arrivent en continu — combien de temps tiendrez-vous ?
+• Move your ship in 4 directions
 
-─────────────────────────────
+• Fire missiles at enemies
 
-# ⌨️ CONTRÔLES
+• One hit from an enemy = GAME OVER
 
-▲ ▼ ◄ ► — Déplacement
-ESPACE   — Tirer un missile
+• Enemies are constantly arriving — how long will you last?
 
-─────────────────────────────
+──────────────────────────────
 
-# 🛠 INFOS TECHNIQUES
+# ⌨️ CONTROLS
 
-Développé en Python avec Pygame.
-Un projet indie fait maison avec passion !
+▲ ▼ ◄ ► — Movement
 
-─────────────────────────────
+SPACE — Fire a missile
 
-Bon courage, pilote. Les ennemis n'attendent pas. 🔥
+───────────────────────────────
+
+# 🛠 TECHNICAL INFO
+
+Developed in Python with Pygame.
+
+A homemade indie project, crafted with passion!
+
+──────────────────────────────
+
+Good luck, pilot. The enemy waits for no one. 🔥
