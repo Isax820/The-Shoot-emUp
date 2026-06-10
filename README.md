@@ -1,4 +1,8 @@
-[![The Shoot'em Up by Isax82](https://img.shields.io/badge/itch.io-The%20Shoot'em%20Up-FA5C5C?style=for-the-badge&logo=itch.io)](https://isax82.itch.io/the-shoot-em-up)
+<div align="center">
+  <a href="https://isax82.itch.io/the-shoot-em-up">
+    <img src="https://static.itch.io/images/badge-color.svg" alt="Available on itch.io" height="80">
+  </a>
+</div>
 
 # 🚀 THE SHOOT'EM UP 1.1
 
@@ -27,6 +31,12 @@ Pilot your ship, dodge enemies, and destroy them before they catch you. Every ga
 SPACE — Fire a missile
 
 ───────────────────────────────
+
+# 🔥 DOWNLOAD
+
+You can download the game [**here**](https://github.com/Isax820/The-Shoot-emUp/releases)
+
+──────────────────────────────
 
 # 🛠 TECHNICAL INFO
 
